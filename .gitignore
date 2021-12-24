@@ -1,0 +1,10 @@
+Packages/
+ServerPackages/
+Templates/
+
+# Project place file
+/knit_template.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
