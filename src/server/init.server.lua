@@ -43,10 +43,7 @@ end
 Knit.ComponentsLoaded = false
 
 Knit.AddServices(script.services)
-
-if game.PlaceId ~= 0 then
-	Cmdr:RegisterDefaultCommands()
-end
+Cmdr:RegisterDefaultCommands()
 
 ----------------------------------------------
 
