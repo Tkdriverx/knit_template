@@ -22,4 +22,5 @@ Loader = "sleitnick/loader@^1.0.2"
 Plasma = "evaera/plasma@^0.1.0"
 
 [server-dependencies]
+ProfileService = "rudy-dev/profileservice@^1.0.0"
 Cmdr = "evaera/cmdr@^1.8.4"
